@@ -33,3 +33,7 @@ requirements.txt
 .DS_Store
 .pytest_cache/
 .coverage
+
+dist
+fake_store_api_wrapper_jopgood.egg-info
+.pypirc

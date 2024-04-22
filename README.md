@@ -15,7 +15,7 @@ The Fake Store API Wrapper is a Python library designed to simplify interaction 
 You can install the Fake Store API Wrapper using pip:
 
 ```bash
-pip install fake_store_api_wrapper
+pip install -i https://test.pypi.org/simple/ fake-store-api-wrapper-jopgood
 ```
 
 ## Usage
